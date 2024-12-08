@@ -1,0 +1,10 @@
+basic-javaScript
+es6
+regular-expressions
+debugging
+basic-data-structures
+basic-algorithm-scripting
+oop
+functional-programming
+intermediate-algorithm-scripting
+javaScript-algorithms-and-data-structures-projects
