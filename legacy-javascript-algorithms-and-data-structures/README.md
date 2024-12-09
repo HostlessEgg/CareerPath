@@ -6,7 +6,7 @@ A lo largo del curso, explorarás dos importantes estilos de programación: Prog
 
 ## Tabla de Contenidos
 - [Contenido del Curso](#contenido-del-curso)
-  - [1. Basic JavaScript](#1-basic-javascript)
+  - [1. Basic JavaScript](./basic-javaScript/README.md)
   - [2. ES6](#2-es6)
   - [3. Regular Expressions](#3-regular-expressions)
   - [4. Debugging](#4-debugging)
